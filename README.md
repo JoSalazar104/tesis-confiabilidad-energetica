@@ -31,12 +31,12 @@ Este proyecto fue desarrollado como trabajo de grado para optar al título de In
 
 ## 🧠 Autor
 
-#  José Miguel Salazar Dávila  
+###  José Miguel Salazar Dávila  
   [LinkedIn](https://www.linkedin.com/in/josemiguelsalazardavila/)  
   Ingenieria Industrial - Especialización en Inteligencia Artificial - Universidad EIA
 
 
-#  Maria Trinidad Estupiñan 
+###  Maria Trinidad Estupiñan 
   [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-trinidad-estupi%C3%B1%C3%A1n-323442331/)  
   Ingenieria Industrial - Universidad EIA
 
